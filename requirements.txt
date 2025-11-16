@@ -1,0 +1,5 @@
+wheel==0.45.1
+requests
+icalendar
+Flask
+gunicorn
